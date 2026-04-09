@@ -1,8 +1,11 @@
 # Research-Achievements
 
 ORCID: https://orcid.org/0009-0009-0676-681X
+
 Google Scholar: https://scholar.google.com/citations?hl=en&user=RlKaa1MAAAAJ
+
 Research Gate: https://www.researchgate.net/profile/Paras-Mahajan-4/research
+
 SCOPUS: https://www.scopus.com/authid/detail.uri?authorId=60174850800&origin=resultslist
 
 # Patents 
